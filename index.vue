@@ -5,7 +5,7 @@
       <div class="formSearch">
         <form class="el-form el-form--inline" id="formSearch">
           <div class="el-form-item">
-            <el-input v-model="params.dangerChemicalName" placeholder="危化品名称"></el-input>
+            <el-input v-model="params.dangerChemicalName" placeholder="危化品名称少时诵诗书所所所ss"></el-input>
           </div>
           <div class="el-form-item">
             <el-select v-model="params.deptId" placeholder="管理部门" filterable :clearable="true">
